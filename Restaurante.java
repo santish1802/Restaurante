@@ -5,18 +5,18 @@ import java.util.regex.Matcher;
 
 public class Restaurante {
 
-    // ESTADISTICAS NUEVAS:
+    // ESTADÍSTICAS NUEVAS:
     //
     //
     //
     //
     //
 
-    // 1.- registar nuevas mesa -
-    // 2.- el tiempo de atención en base a platos o comidas (sub menu)
+    // 1.- registrar nueva mesa -
+    // 2.- el tiempo de atención con base en platos o comidas (sub menu)
     // 3.- Liberar la mesa de la atención
-    // 4.- Abrir el dia y cerrar el dia (pasar las estadisticas guardas en memoria sin archivo)
-    //     En las estadisticas solicitar el dia primero
+    // 4.- Abrir el día y cerrar el día (pasar las estadísticas guardas en memoria sin archivo)
+    //     En las estadísticas solicitar el día primero
     // 5.- Meseros fijos, mostrar lista de meseros para atender. (sub menu)
 
 
